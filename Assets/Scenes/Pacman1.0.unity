@@ -416,11 +416,11 @@ PrefabInstance:
     - target: {fileID: 5058308114681254252, guid: 8398b287235293d469d1683369c48531, type: 3}
       propertyPath: inside
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 970436543}
     - target: {fileID: 5058308114681254252, guid: 8398b287235293d469d1683369c48531, type: 3}
       propertyPath: outside
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 767367221}
     - target: {fileID: 6184281723028841250, guid: 8398b287235293d469d1683369c48531, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -483,7 +483,7 @@ MonoBehaviour:
   - {fileID: 2107185094}
   pacman: {fileID: 1575749643}
   pacman2: {fileID: 1227406337}
-  pellets: {fileID: 0}
+  pellets: {fileID: 1888058577}
   gameOverText: {fileID: 1133529214}
   scoreText: {fileID: 1945791160}
   livesText: {fileID: 278868602}
@@ -2073,11 +2073,11 @@ PrefabInstance:
     - target: {fileID: 1340345220604751223, guid: 0d1f951e4ac24fe478d688dbf86a5c39, type: 3}
       propertyPath: inside
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 970436543}
     - target: {fileID: 1340345220604751223, guid: 0d1f951e4ac24fe478d688dbf86a5c39, type: 3}
       propertyPath: outside
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 767367221}
     - target: {fileID: 3838302860257571699, guid: 0d1f951e4ac24fe478d688dbf86a5c39, type: 3}
       propertyPath: target
       value: 
@@ -2274,11 +2274,11 @@ PrefabInstance:
     - target: {fileID: 8971009504729605341, guid: 25f5544974e8f0b409f1c5070cbb2c0e, type: 3}
       propertyPath: inside
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 970436543}
     - target: {fileID: 8971009504729605341, guid: 25f5544974e8f0b409f1c5070cbb2c0e, type: 3}
       propertyPath: outside
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 767367221}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 25f5544974e8f0b409f1c5070cbb2c0e, type: 3}
 --- !u!1 &1888058576
@@ -10708,11 +10708,11 @@ PrefabInstance:
     - target: {fileID: 4988485570163000569, guid: 87e861fcfe4201c4d8213cba69c0f024, type: 3}
       propertyPath: inside
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 970436543}
     - target: {fileID: 4988485570163000569, guid: 87e861fcfe4201c4d8213cba69c0f024, type: 3}
       propertyPath: outside
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 767367221}
     - target: {fileID: 6258572098573448887, guid: 87e861fcfe4201c4d8213cba69c0f024, type: 3}
       propertyPath: m_Sprite
       value: 
