@@ -27,7 +27,7 @@ public class GameManager : MonoBehaviour
     public int Lives2 => lives2;
     public int Score2 => score2;
 
-    private void Awake()
+    public void Awake()
     {
         if (Instance != null)
         {
@@ -53,7 +53,7 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    private void NewGame()
+    public void NewGame()
     {
         SetScore(0);
         SetLives(3);
